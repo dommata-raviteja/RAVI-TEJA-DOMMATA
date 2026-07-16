@@ -126,3 +126,14 @@ I am passionate about **Full Stack Development, Artificial Intelligence, Cyber S
 ---
 
 # 🤝 Let's Connect
+
+I'm always happy to connect with developers, students, and tech enthusiasts.
+
+⭐ **If you like my work, don't forget to Star my repositories!**
+
+<p align="center">
+<i>Thanks for visiting my GitHub Profile ❤️</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
